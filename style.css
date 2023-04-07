@@ -150,7 +150,7 @@ header nav{
 form{
   display:flex;
   justify-content: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   width:100%;
   
 }
@@ -177,7 +177,7 @@ form input{
 p{
   flex:2;
 }
-.item{
+#ideas img{
   width: 100%;
 }
 #about img{
